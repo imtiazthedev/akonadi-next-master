@@ -1,0 +1,7 @@
+namespace Akonadi2;
+
+table RevisionUpdate {
+    revision: ulong;
+}
+
+root_type RevisionUpdate;
